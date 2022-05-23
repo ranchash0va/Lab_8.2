@@ -1,0 +1,7 @@
+Enter amount of workers :
+Surname: ghgfh
+Year of birth: 1999
+Position: Engineer
+Salary: 545
+Education: hghj
+Engineers count:2

@@ -1,0 +1,7 @@
+Company: gfgh
+Manufacturer: ghy
+Car type: fds
+Year of assembly: 23
+Year of registration: 24
+Month of registration: 30
+Day of registration: 54
